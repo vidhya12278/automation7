@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35103" started-at="2021-05-04T07:28:24Z" finished-at="2021-05-04T07:28:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35103" started-at="2021-05-04T07:28:24Z" finished-at="2021-05-04T07:28:59Z">
+      <class name="clubfactory.Yatrabustask">
+        <test-method status="PASS" signature="browserlaunch()[pri:1, instance:clubfactory.Yatrabustask@c038203]" name="browserlaunch" duration-ms="5857" started-at="2021-05-04T07:28:24Z" finished-at="2021-05-04T07:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="search()[pri:3, instance:clubfactory.Yatrabustask@c038203]" name="search" duration-ms="28146" started-at="2021-05-04T07:28:30Z" finished-at="2021-05-04T07:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="nameslist()[pri:5, instance:clubfactory.Yatrabustask@c038203]" name="nameslist" duration-ms="1072" started-at="2021-05-04T07:28:58Z" finished-at="2021-05-04T07:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameslist -->
+      </class> <!-- clubfactory.Yatrabustask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
